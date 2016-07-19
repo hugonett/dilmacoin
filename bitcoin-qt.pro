@@ -1,6 +1,6 @@
 TEMPLATE = app
-TARGET = dilmacoin-qt
-macx:TARGET = "Dilmacoin-Qt"
+TARGET = gabicoin-qt
+macx:TARGET = "Gabicoin-Qt"
 VERSION = 0.8.6.2
 INCLUDEPATH += src src/json src/qt
 QT += core gui network
